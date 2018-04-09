@@ -53,7 +53,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <c:url value="/about.html" var="about"/>
                 <c:url value="/jdbc.html" var="jdbc"/>
-                <%--<c:url value="/email.html" var="email"/>--%>
+                <c:url value="/email.html" var="email"/>
                 <li><a href="${about}">About</a></li>
                 <li><a href="${jdbc}">jdbc</a></li>
                 <li><a href="${email}">email</a></li>
