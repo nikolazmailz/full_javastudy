@@ -1,1 +1,1 @@
-# full_javastudy
+# commit for Spring Data lessons
